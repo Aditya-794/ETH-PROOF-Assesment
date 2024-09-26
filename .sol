@@ -1,5 +1,5 @@
- string public tokenName = "AELPH";
-string public tokenAbbrv = "ALP";
+ string public tokenName = "INVINCIBLE";
+string public tokenAbbrv = "INVNCBL";
 uint public totSupply = 0; 
 
 mapping(address => uint) public balances;
